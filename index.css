@@ -1,0 +1,48 @@
+body{
+    margin:0 px;
+}
+header h1{
+    text-align: center;
+    font-size: 40 px;
+    color: black;
+}
+header{
+    padding: 30 px;
+    background-color: cornflowerblue;
+}
+nav{
+    background-color: black;
+   overflow: hidden;
+}
+nav a:visited{
+    color: aqua;
+}
+nav a{
+    text-decoration: none;
+    padding: 30 px;
+    text-align: center;
+    float: left;
+    color: antiquewhite;
+}
+
+    main {
+        background-color: aquamarine ;
+        text-align: center;
+    }
+    FOOTER{
+        background-color:darkblue;
+    overflow: hidden;
+    }
+    FOOTER A{
+        text-decoration: none;
+        padding: 20 px;
+        text-align: center;
+        float: left;
+        color: antiquewhite;
+    }
+    p::first-line{
+        background-color: brown;
+
+    }
+    
+    
